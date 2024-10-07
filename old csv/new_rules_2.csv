@@ -1,0 +1,12 @@
+id,Rule name,rulepack,Owner,RA - investigate,RA - contain,Expected Field,RA - remediate,Product Category,Comments,Hitcheck,Categorization,Tags
+1.1.4233,WINDOWS METHODOLOGY [Impair Defenses - Indicator Blocking],Windows,Ajeeth,2.1.5,2.2.3,,2.3.1,Endpoint,TP,2,,"trellix_endpoint, trellix_methodology"
+1.1.4235,MACOS METHODOLOGY [Backup Disable/Delete - Tmutil],MacOS,Ajeeth,2.1.5,2.2.3,,"2.3.1,2.3.3",Endpoint,,-,,"trellix_endpoint, trellix_methodology"
+1.1.4236,WINDOWS METHODOLOGY [Hide Users via Registry Modification],Windows,Ajeeth,4.1.3,4.2.1,,4.3.1,Identity/Endpoint,,-,,"trellix_endpoint, trellix_methodology"
+1.1.4237,WINDOWS METHODOLOGY [Hide Files via Registry Modification],Windows,Ajeeth,2.1.5,2.2.1,,2.3.2,Endpoint,TP,33,,"trellix_endpoint, trellix_methodology"
+1.1.4239,WINDOWS METHODOLOGY [Credential Access from Web Browsers via Powershell],Windows,Ajeeth,2.1.5,2.2.3,,2.3.1,Endpoint,,-,,"trellix_endpoint,trellix_methodology"
+1.1.4240,WINDOWS METHODOLOGY [Hide Windows Services via SC],Windows,Ajeeth,"2.1.1,2.1.2","2.2.4,2.2.3",,"2.3.2,2.3.3",Endpoint,,-,,"trellix_endpoint, trellix_methodology"
+1.1.4241,WINDOWS METHODOLOGY [User Created Without Password],Windows,Ajeeth,4.1.1,4.2.1,,4.3.1,Identity,,-,,"trellix_methodology"
+1.1.4242,WINDOWS METHODOLOGY [Alternative Data Stream],Windows,Ajeeth,2.1.2,2.2.1,,"2.3.2,2.3.3",Endpoint,TP,19,,"trellix_endpoint, trellix_methodology"
+1.1.4243,POWERSHELL METHODOLOGY [Hide Windows Services],Windows,Ajeeth,"2.1.1,2.1.2","2.2.4,2.2.3",,"2.3.2,2.3.3",Endpoint,,-,,"trellix_endpoint, trellix_methodology"
+1.1.4245,WINDOWS METHODOLOGY [Chrome Extensions Modified via Registry],Windows,Ajeeth,2.1.1,2.2.2,,"2.3.2,2.3.3",Endpoint,TP,1,,"trellix_endpoint, trellix_methodology"
+1.1.4247,WINDOWS METHODOLOGY [Suspicious AV Search],Windows,Ajeeth,2.1.5,2.2.6,,2.3.3,Endpoint,,-,,"trellix_endpoint, trellix_methodology"

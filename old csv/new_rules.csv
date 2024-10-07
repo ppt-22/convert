@@ -1,0 +1,24 @@
+id,Rule name,rulepack,Tags,RA - investigate,RA - contain,RA - remediate,hitcheck
+1.1.4132,MALWARE METHODOLOGY [DarkGate Arguments],Malware Methodology,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology","2.1.1,2.1.5",2.2.3,"2.3.1,2.3.3",
+1.1.4134,EXPLOIT - CITRIX NETSCALER [CVE-2023-4966],Vendor - Citrix,"trellix_network,trellix_atomic,trellix_network_artifact,trellix_exploit",3.1.4,3.2.3,3.3.5,medium (240)
+1.1.4135,WINDOWS METHODOLOGY [Suspicious Msiexec Usage From Java],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.4,2.2.3,low (3) (168hrs)
+1.1.4136,WINDOWS METHODOLOGY [Suspicious DLL Create],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.1,2.3.3,
+1.1.4153,WINDOWS METHODOLOGY [SSH tunneling],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.1,2.2.3,2.3.3,low (311) (168hrs)
+1.1.4154,EXPLOIT - WINRAR [CVE-2023-38831],Vulnerability,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_exploit",2.1.5,2.2.1,2.3.3,
+1.1.4159,WINDOWS METHODOLOGY [Suspicious DLL Hijacking],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.1,2.3.3,
+1.1.4176,MALWARE METHODOLOGY [UNC4990 - File Create],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.2,2.2.1,"2.3.2,2.3.3",
+1.1.4178,LINUX METHODOLOGY [File Attribute Modified],Linux,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.6,2.3.3,
+1.1.4179,MALWARE METHODOLOGY [Coathanger Malware File],Malware Methodology,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.6,2.3.3,
+1.1.4191,MALWARE METHODOLOGY [PS1 File Creation Via Rundll32],Malware Methodology,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.2,2.2.3,"2.3.2,2.3.3",low (10) (168hrs)
+1.1.4193,WINDOWS METHODOLOGY [Suspicious Debug DLLs Load],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.3,2.3.1,low (61)
+1.1.4200,WINDOWS METHODOLOGY [HKCU Reg Key Modification],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.6,2.3.3,
+1.1.4201,WINDOWS METHODOLOGY [Certutil Suspicious Encode],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.4,2.3.3,
+1.1.4210,WINDOWS METHODOLOGY [Persistence - StartUp Folder],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.6,2.3.2,high (5809)
+1.1.4213,WINDOWS METHODOLOGY [BCDEDIT Load Unsigned Driver],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.6,2.3.3,low (15)
+1.1.4215,WINDOWS METHODOLOGY [DLL File Creation In Temp],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.2,"2.3.2,2.3.3",
+1.1.4221,FOREST BLIZZARD [File Create - ProgramData],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.4,2.2.2,"2.3.1,2.3.3",low
+1.1.4222,FOREST BLIZZARD [GOOSEEGG - CMD Arguments],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.3,2.3.3,low
+1.1.4223,FOREST BLIZZARD [GOOSEEGG - Reg Events],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.3,2.3.3,low
+1.1.4224,FOREST BLIZZARD [File Create - DriverStore],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.3,2.3.3,low (8)
+1.1.4225,WINDOWS METHODOLOGY [Suspicious POST request using Curl],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.3,2.3.3,low
+1.1.4227,WINDOWS METHODOLOGY [Curl Execution],Windows,"trellix_endpoint,trellix_atomic,trellix_host_artifact,trellix_methodology",2.1.5,2.2.3,2.3.3,low
